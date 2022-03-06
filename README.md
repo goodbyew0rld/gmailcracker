@@ -14,7 +14,7 @@ $ pkg install wordlist
 
 $ git clone https://github.com/goodbyew0rld/gmailcracker.git
 
-$ cd gmail_cracker
+$ cd gmailcracker
 
 $ python2 G.goodbye_world.py
 
