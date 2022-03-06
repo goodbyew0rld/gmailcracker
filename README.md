@@ -16,7 +16,7 @@ $ git clone https://github.com/goodbyew0rld/gmailcracker.git
 
 $ cd gmail_cracker
 
-$ python2 gmailcracker.py
+$ python2 G.goodbye_world.py
 
 And I put the name of the password in the list we have, for example pass.txt
 
