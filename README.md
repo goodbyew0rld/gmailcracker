@@ -12,7 +12,7 @@ $ pkg install python2
 
 $ pkg install wordlist
 
-$ git clone https://github.com/goodbyeworld222/gmail_cracker.git
+$ git clone https://github.com/goodbyew0rld/gmailcracker.git
 
 $ cd gmail_cracker
 
